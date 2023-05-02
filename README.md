@@ -8,10 +8,11 @@ Diese App analysiert Ihren Trainingsfortschritt und zeigt die verbrachte Zeit in
 
 
 Here some sample:
-
-
-
-![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/1.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/2.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/3.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/4.png?raw=true)
+<p float="left">
+<img src="https://github.com/koljabohne/training_analyzer/blob/main/images/1.png" height="450">
+<img src="https://github.com/koljabohne/training_analyzer/blob/main/images/2.png" height="450">
+  </p>
+  <p float="left">
+<img src="https://github.com/koljabohne/training_analyzer/blob/main/images/3.png" height="450">
+<img src="https://github.com/koljabohne/training_analyzer/blob/main/images/4.png" height="450">
+</p>
