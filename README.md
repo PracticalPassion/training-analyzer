@@ -11,7 +11,7 @@ Here some sample:
 
 
 
-![alt text](https://github.com/koljabohne/training_analyzer/main/images/1.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/main/images/2.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/main/images/3.png?raw=true)
-![alt text](https://github.com/koljabohne/training_analyzer/main/images/4.png?raw=true)
+![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/2.png?raw=true)
+![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/3.png?raw=true)
+![alt text](https://github.com/koljabohne/training_analyzer/blob/main/images/4.png?raw=true)
