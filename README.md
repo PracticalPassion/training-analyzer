@@ -6,7 +6,7 @@ This app analyzes your training progress and shows the time spent within a certa
 ___
 
 
-Here some sample:
+Here are some samples:
 <p float="left">
 <img src="https://github.com/koljabohne/training_analyzer/blob/main/images/1.png" height="450">
 <img src="https://github.com/koljabohne/training_analyzer/blob/main/images/2.png" height="450">
